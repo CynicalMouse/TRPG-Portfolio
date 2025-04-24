@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\TRPG Combat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\gridscripts\\gridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridscripts\\gridsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\gridscripts\\gridsystemvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridscripts\\gridsystemvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\gridscripts\\levelgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridscripts\\levelgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\playerscripts\\playerstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\playerstatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\playerscripts\\combattrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscripts\\combattrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\unit scripts\\unitactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unit scripts\\unitactionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|e:\\unity projects\\trpg combat\\assets\\scripts\\camerascripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF4D36-2C8D-877B-4737-9F72B6F6BCFF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerascripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerStateController.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\PlayerScripts\\PlayerStateController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\PlayerStateController.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\PlayerScripts\\PlayerStateController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScripts\\PlayerStateController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAEwL8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:04:19.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelGrid.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\LevelGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridScripts\\LevelGrid.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\LevelGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridScripts\\LevelGrid.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAvwFcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:03:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitActionSystem.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\Unit Scripts\\UnitActionSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unit Scripts\\UnitActionSystem.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\Unit Scripts\\UnitActionSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unit Scripts\\UnitActionSystem.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAvwKgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:54:27.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CombatTrigger.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\PlayerScripts\\CombatTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScripts\\CombatTrigger.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\PlayerScripts\\CombatTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScripts\\CombatTrigger.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAvwD8AAACbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:54:17.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pathfinding.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pathfinding\\Pathfinding.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:53:32.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridSystemVisual.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\GridSystemVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridScripts\\GridSystemVisual.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\GridSystemVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridScripts\\GridSystemVisual.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAvwC8BAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:53:11.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridSystem.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\GridSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridScripts\\GridSystem.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\GridScripts\\GridSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridScripts\\GridSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:50:43.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:09:17.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\CameraScripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraScripts\\CameraController.cs",
+              "ToolTip": "E:\\Unity Projects\\TRPG Combat\\Assets\\Scripts\\CameraScripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraScripts\\CameraController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T19:02:13.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
