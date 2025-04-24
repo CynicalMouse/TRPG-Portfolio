@@ -71,6 +71,17 @@ public class UnitManager : MonoBehaviour
         else
         {
             playerUnits.Remove(unit);
+
+            if (playerUnits.Count <= 0)
+            {
+                // All player units dead
+                // Custom logic here
+                // Presumably send an event instead?
+                // So can set up cutscenes etc
+
+                // For now, end combat
+                PlayerStateController.Instance.ExitCombat();
+            }
         }
 
         unitList.Remove(unit);
